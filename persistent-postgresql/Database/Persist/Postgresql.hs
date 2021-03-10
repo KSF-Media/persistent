@@ -705,7 +705,7 @@ builtinGetters = I.fromList
     , (1005,             listOf PersistInt64)
     , (1007,             listOf PersistInt64)
     , (1009,             listOf PersistText)
-    , (143,              listOf PersistText)
+    , (142,              listOf PersistText)
     , (1021,             listOf PersistDouble)
     , (1022,             listOf PersistDouble)
     , (1023,             listOf PersistUTCTime)
